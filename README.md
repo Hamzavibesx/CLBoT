@@ -46,7 +46,7 @@ Note : there are hidden features, check at the source code of the bot to find th
 
 ## ⚛️ Deploying on Heroku
 
-𝙈𝙚𝙩𝙝𝙤𝙙 - 1 : ᴠɪᴀ ɢɪᴛʜᴜʙ ᴀᴄᴛɪᴏɴ𝙨
+http://dashboard.heroku.com/new?template=https://github.com/Hamzavibesx/CLBoT
 
 [![Deploy](http://dashboard.heroku.com/new?template=https://github.com/Hamzavibesx/CLBoT)]
 
